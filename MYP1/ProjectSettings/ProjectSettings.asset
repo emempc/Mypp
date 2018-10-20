@@ -650,9 +650,9 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: e7d4f463-fecd-401d-a878-a43266905edf
-  projectName: MYP1
-  organizationId: emempc
+  cloudProjectId: bfbe25a0-bad2-45a4-9f74-6bb7f778647c
+  projectName: MYP Project
+  organizationId: monicqwa
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
